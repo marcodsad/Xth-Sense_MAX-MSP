@@ -1,6 +1,6 @@
 Xth-Sense_MAX-MSP
 
-A porting of the Xth Sense software from Pure Data to MAX/MSP
+A porting of the Xth Sense software from Pure Data to MAX/MSP, thanks to the work of Miguel Ortiz, Romain Dumaine, Girilal Baars, J.P. Bellona, Olivier Baudry.
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
